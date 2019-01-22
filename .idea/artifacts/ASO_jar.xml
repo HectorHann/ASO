@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ASO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ASO_jar</output-path>
+    <root id="archive" name="ASO.jar">
+      <element id="module-output" name="ASO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencsv-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
