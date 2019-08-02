@@ -76,6 +76,7 @@ public class Main {
             });
 
 
+
             reportFileChoose.setFileFilter(filter);
             reportFileChoose.addActionListener(new ActionListener() {
                 @Override
